@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://quhadoyweb.netlify.app/sitemap.xml
